@@ -25,10 +25,18 @@ export default function RootLayout({ children }) {
 
           {/*footer*/}
           <footer className="bg-blue-50 py-12">
-            <div className="container mx-auto px-4 text-center text-gray-600">
-              <p>Your One Stop Solution For Tracking Finances</p>
-              
-            </div>
+          <div className="container mx-auto px-4 text-center text-gray-600">
+            <p>Made With ❤️ By Tarun</p> 
+            <p>
+              <a href="https://github.com/YDVTARUN/FinAI" 
+                className="text-blue-500 hover:underline" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                GitHub Repo
+              </a>
+            </p>
+          </div>
+
           </footer>
         </body>
       </html>
