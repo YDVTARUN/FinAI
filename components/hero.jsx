@@ -49,7 +49,7 @@ const HeroSection = () => {
           </Link>
 
             {/* Link to edit latter on after pushing code to github */}
-          <Link href="https://github.com/akashpandit55900/welth-ai-finance-app.git">
+          <Link href="https://github.com/YDVTARUN/FinAI">
             <Button size="lg" variant="outline" className="px-8">
               Source Code
             </Button>
